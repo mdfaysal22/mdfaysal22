@@ -1,6 +1,6 @@
 ![image](https://user-images.githubusercontent.com/107498163/226158548-af72dc11-b75d-43e8-9337-8b9c96eb8d3f.png)
 <h1 align="center">Hi 👋, I'm Md Faysal. You can call me Faysal.</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh.</h3>
+<h3 align="center">A passionate Full Stack Web developer from Bangladesh.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
